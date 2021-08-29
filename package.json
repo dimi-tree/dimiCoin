@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
